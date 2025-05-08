@@ -1,11 +1,11 @@
 [package]
-name = "Geo Clock"
+name = "geoclock"
 version = "1.0.0"
-edition = "2025"
+edition = "2024"
 license = "MIT OR Apache-2.0"
 description = "Display time as calculated by your longitude"
-homepage = ""
-repository = ""
+homepage = "https://github.com/FGRCL/geoclock"
+repository = "https://github.com/FGRCL/geoclock"
 readme = "README.md"
 
 [dependencies]
