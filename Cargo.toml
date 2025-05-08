@@ -1,7 +1,12 @@
 [package]
-name = "clock"
-version = "0.1.0"
-edition = "2024"
+name = "Geo Clock"
+version = "1.0.0"
+edition = "2025"
+license = "MIT OR Apache-2.0"
+description = "Display time as calculated by your longitude"
+homepage = ""
+repository = ""
+readme = "README.md"
 
 [dependencies]
 chrono = "0.4.40"
